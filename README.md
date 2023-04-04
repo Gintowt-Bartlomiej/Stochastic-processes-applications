@@ -5,7 +5,8 @@
   
 ## Krótki opis projektu:
   Wykorzystanie procesu Poissona w procesie ryzyka, wyznaczenia prawdopodobieństwa ruiny.
-  Wykrozystanie ruchu Browna do oszacowania średniego czasu wyjścia z zadanego przedziału. 
+  \\
+  Wykorzystanie ruchu Browna do oszacowania średniego czasu wyjścia z zadanego przedziału. 
   
 ## Pliki odpowiadające odpowiedniej częsci raportu:
   
