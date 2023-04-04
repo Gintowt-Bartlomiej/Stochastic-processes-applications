@@ -4,9 +4,7 @@
   Bartłomiej Gintowt
   
 ## Krótki opis projektu:
-  Wykorzystanie procesu Poissona w procesie ryzyka, wyznaczenia prawdopodobieństwa ruiny.
-  \\
-  Wykorzystanie ruchu Browna do oszacowania średniego czasu wyjścia z zadanego przedziału. 
+  Wykorzystanie procesu Poissona w procesie ryzyka, wyznaczenia prawdopodobieństwa ruiny oraz ruchu Browna/procesu Wienera do oszacowania średniego czasu wyjścia z zadanego przedziału. 
   
 ## Pliki odpowiadające odpowiedniej częsci raportu:
   
